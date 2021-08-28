@@ -127,6 +127,8 @@ On this tree, the merge function is run and the result of the merged tree:
 - [ ] IP range representation to multiple CIDR representations
 - [ ] Support for handling dl_src, dl_dst, dl_type, ipv6_src, ipv6_dst, multiple nw_proto
 - [ ] Output resolved and merged rules to firewall rules file
+- [ ] Iptables analyzer (rule importer)
+- [ ] ipfw/PF analyzer (rule importer)
 
 ### More about this program
 Detailed descrptions about this program is in this blog post [Anomaly Firewall Rule Detection and Resolution](https://ernie55ernie.github.io/python/2019/06/09/anomaly-firewall-rule-detection-and-resolution.html).
